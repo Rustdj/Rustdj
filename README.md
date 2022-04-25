@@ -1,7 +1,7 @@
-### Hi there 👋
-### My name is Rustam Raikerus
+### Hi there 👋 my name is Rustam Raikerus.
+### Im Frontend developer on JavaScript.
 
-<!--
+
 **Rustdj/Rustdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
