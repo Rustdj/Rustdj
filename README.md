@@ -1,6 +1,7 @@
 ### Hi there 👋 my name is Rustam Raikerus.
 ### Im Frontend developer on JavaScript(React.js).
 
+<span color="red">
 
 - 🔭 I’m currently working on implementation of a service to search for specialists in psychology, that is, a portal of psychologists
 - 🌱 I’m currently learning TypeScript, Redux, English
