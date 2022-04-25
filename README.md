@@ -2,15 +2,9 @@
 ### Im Frontend developer on JavaScript.
 
 
-**Rustdj/Rustdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on implementation of a    service to search for specialists in psychology, that is, a portal of psychologists
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on implementation of a service to search for specialists in psychology, that is, a portal of psychologists
+- 🌱 I’m currently learning TypeScript, Redux, English
+- 👯 I’m looking to collaborate on with IT companies or startups
+- 📫 How to reach me: in telegram @RustamRaikerus or/and post spirit820@mail.ru
 
 
