@@ -1,4 +1,4 @@
-<h2> Hi there 👋 my name is Rustam.
+<h2> Hi there 👋 my name is Rustam.<br>
 Im Frontend developer on JavaScript(React.js).</h2>
 
 
